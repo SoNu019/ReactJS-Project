@@ -1,0 +1,36 @@
+
+body{
+    background-color:whitesmoke
+}
+.box{
+    height: 750px;
+    width: 500px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+.formlabel{
+font-size: 20px;
+font-weight: bold;
+color: rgb(5, 4, 4);
+}
+form{
+    box-shadow: 2px 10px 20px rgb(73, 52, 52);
+    width: 850px;
+    background-color: white;
+    padding-left: 20px;
+}
+form h1{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 10px;
+}
+#btn{
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 200px;
+}

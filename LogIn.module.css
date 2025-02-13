@@ -1,0 +1,21 @@
+form{
+   margin-left: 400px;
+   margin-top: 100px;
+   height: 500px;
+}
+.formlogin{
+ font-size: 20px;
+ font-weight: bold;
+ margin-top: 20px;
+}
+#btn {
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 200px;
+}
+input{
+    height: 45px;
+    width: 90%;
+}
